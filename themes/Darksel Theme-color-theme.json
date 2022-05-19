@@ -23,34 +23,34 @@
 		// bg de contenedor de pestañas
 		"editorGroupHeader.tabsBackground": "#111111",
 		// pestaña inactiva
-		"tab.inactiveBackground": "#5b5b5b44",
+		"tab.inactiveBackground": "#1d1d1d",
 		// barra de scroll
 		"scrollbarSlider.activeBackground": "#575757c1",
 		"scrollbarSlider.background": "#575757c1",
 		"scrollbarSlider.hoverBackground": "#575757c1",
 		// boton abrir carpeta
 		"button.background": "#2b0439d1",
-		// COLOR DE TEXTO DE BOTON
+		// color texto de boton
 		"button.foreground": "#F5F5F5",
 		// bg input buscar y remplazar
 		"input.background": "#191919",
 		// barra de progreso
 		"progressBar.background": "#111111",
-		//barra de estado
+		// barra de estado
 		"statusBar.background": "#111111",
 		"statusBar.noFolderBackground": "#111111",
 		"statusBar.debuggingBackground": "#111111",
 		"statusBar.foreground": "#cfbaf0",
 		"statusBar.debuggingForeground": "#cfbaf0",
-		//Fondo cuando se arrastra un archivo en el sidebar
+		// fondo cuando se arrastra un archivo en el sidebar
 		"list.dropBackground": "#1d1d1d",
-		// Customization sidebar
+		// customization sidebar
 		"list.focusBackground": "#1d1d1d",
 		"list.focusOutline": "#636363",
 		"list.hoverBackground": "#1d1d1d",
 		"list.inactiveSelectionBackground": "#1d1d1d",
 		"tree.indentGuidesStroke": "#212121",
-		//Bg de sections en sidebar
+		// bg de sections en sidebar
 		"sideBarSectionHeader.background": "#111111",
 		// bg al arrastrar pestañas
 		"editorGroup.dropBackground": "#1d1d1d",
@@ -59,31 +59,30 @@
 		// cursor
 		"editorCursor.background": "#1d1d1d",
 		"editorCursor.foreground": "#f5f5f5",
-		//seleccion
+		// seleccion
 		"editor.selectionBackground": "#464646",
 		"editor.selectionHighlightBackground": "#707070",
 		"editor.selectionHighlightBorder": "#707070",
-		//seleciion variables
+		// selecion variables
 		"editor.wordHighlightBackground": "#5440406a",
-		// "editor.wordHighlightBackground": "#54404037",
 		"editor.wordHighlightBorder":"#3e3e3e",
 		"editor.wordHighlightStrongBackground": "#3e3e3e31",
-		//info hover
+		// info hover
 		"editor.hoverHighlightBackground": "#7b0c8c6c",
 		// linea de columna horizontal
 		"editor.lineHighlightBackground": "#1d1d1d",
 		// bg menu alt
 		"menu.background": "#111111",
-		//Match in search
+		// match in search
 		"editor.findMatchBackground": "#7b0c8c6c",
 		"editor.findMatchHighlightBackground": "#464646",
 		// links
 		"editorLink.activeForeground":"#ffb700",
-		"textLink.foreground": "#e06c75",
+		"textLink.foreground": "#6cb9e0",
+		"textLink.activeForeground": "#6cb9e0da",
 		// braket pairs close
 		"editorBracketMatch.border":"#ffe100",
 		"editorBracketMatch.background":"#ffc40058",
-		"textBlockQuote.background":"#ff0000",
 	},
 	"tokenColors": [
 		{

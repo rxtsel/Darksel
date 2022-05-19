@@ -2,8 +2,8 @@
 
 All notable changes to the "darksel" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.2] (19-05-2022)
 
-## [Unreleased]
-
-- Initial release
+- Change color of inactive tabs.
+- More light on the active number.
+- Excess light is removed when selecting variables.
