@@ -20,4 +20,4 @@ Css:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
 
-<a href="https://www.buymeacoffee.com/rxtsel" target="_blank"><img src="https://user-images.githubusercontent.com/85462420/166721999-8295738e-e703-41a8-aa85-18bbd2e5820c.svg" /></a>
+<a href="https://www.buymeacoffee.com/rxtsel" target="_blank"><img src="https://user-images.githubusercontent.com/85462420/169225342-344f2ecd-905c-4f0b-a656-83d7123eb3cc.png" /></a>
