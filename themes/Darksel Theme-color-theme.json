@@ -55,26 +55,35 @@
 		// bg al arrastrar pestañas
 		"editorGroup.dropBackground": "#1d1d1d",
 		// numero activo linea de numbers
-		"editorLineNumber.activeForeground": "#f5f5f5",
+		"editorLineNumber.activeForeground": "#ffffff",
 		// cursor
 		"editorCursor.background": "#1d1d1d",
 		"editorCursor.foreground": "#f5f5f5",
 		//seleccion
 		"editor.selectionBackground": "#464646",
-		"editor.inactiveSelectionBackground": "#464646a9",
-		"editor.selectionHighlightBackground": "#595959",
-		"editor.selectionHighlightBorder": "#1d1d1d",
+		"editor.selectionHighlightBackground": "#707070",
+		"editor.selectionHighlightBorder": "#707070",
 		//seleciion variables
-		"editor.wordHighlightBackground": "#464646",
-		"editor.wordHighlightBorder": "#1d1d1d",
-		"editor.wordHighlightStrongBackground": "#464646",
-		"editor.wordHighlightStrongBorder": "#111111",
-		//info
-		"editor.hoverHighlightBackground": "#7b0c8ca3",
+		"editor.wordHighlightBackground": "#5440406a",
+		// "editor.wordHighlightBackground": "#54404037",
+		"editor.wordHighlightBorder":"#3e3e3e",
+		"editor.wordHighlightStrongBackground": "#3e3e3e31",
+		//info hover
+		"editor.hoverHighlightBackground": "#7b0c8c6c",
 		// linea de columna horizontal
 		"editor.lineHighlightBackground": "#1d1d1d",
 		// bg menu alt
 		"menu.background": "#111111",
+		//Match in search
+		"editor.findMatchBackground": "#7b0c8c6c",
+		"editor.findMatchHighlightBackground": "#464646",
+		// links
+		"editorLink.activeForeground":"#ffb700",
+		"textLink.foreground": "#e06c75",
+		// braket pairs close
+		"editorBracketMatch.border":"#ffe100",
+		"editorBracketMatch.background":"#ffc40058",
+		"textBlockQuote.background":"#ff0000",
 	},
 	"tokenColors": [
 		{
