@@ -2,9 +2,9 @@
 Dark theme for vscode... 
 
 [![GitHub followers](https://img.shields.io/github/followers/rxtsel?style=social&label=rxtsel)](https://www.github.com/rxtsel)
-[![Twitter Badge](https://img.shields.io/badge/-cristhixnn-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/cristhixnn/)](https://www.twitter.com/cristhixnn/)
-[![Instagram Badge](https://img.shields.io/badge/-cristhixnn-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristhixnn/)](https://www.instagram.com/cristhixnn/)
-[![Facebook Badge](https://img.shields.io/badge/-cristhixnn-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cristhixnn)](https://www.facebook.com/cristhixnn)
+[![Twitter Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rxtsel/)](https://www.twitter.com/cristhixnn/)
+[![Instagram Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rxtsel/)](https://www.instagram.com/cristhixnn/)
+[![Facebook Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rxtsel)](https://www.facebook.com/cristhixnn)
 
 React:
 
