@@ -6,21 +6,17 @@ Dark theme for vscode...
 [![Instagram Badge](https://img.shields.io/badge/-cristhixnn-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristhixnn/)](https://www.instagram.com/cristhixnn/)
 [![Facebook Badge](https://img.shields.io/badge/-cristhixnn-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cristhixnn)](https://www.facebook.com/cristhixnn)
 
-JavaScript:
+React:
 
-![image](https://user-images.githubusercontent.com/85462420/163229018-abf91d2f-d402-4d86-9314-b3c15da8117c.png)
-
+![imagen](https://user-images.githubusercontent.com/85462420/169218532-a1cf7ef7-5529-4e0f-b17e-710ee9741350.png)
 
 Html:
 
-![image](https://user-images.githubusercontent.com/85462420/163229308-c8b8fee6-181d-447d-8549-50ada9b9fc03.png)
-
+![imagen](https://user-images.githubusercontent.com/85462420/169220895-cbf65007-9102-45de-9a62-a23d48c35001.png)
 
 Css:
 
-![image](https://user-images.githubusercontent.com/85462420/163229692-faa051ef-1102-4488-a939-5180663fb8bf.png)
-
-
+![imagen](https://user-images.githubusercontent.com/85462420/169221183-24ef8a11-d35c-4cf4-a4ab-d3785e1f5642.png)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
 
