@@ -2,6 +2,12 @@
 
 All notable changes to the "darksel" extension will be documented in this file.
 
+## [0.0.3] (19-05-2022)
+
+- Change color of the bracket pairs.
+- Change color to selection variables.
+- Remove border to highligh matchs.
+
 ## [0.0.2] (19-05-2022)
 
 - Change color of inactive tabs.
