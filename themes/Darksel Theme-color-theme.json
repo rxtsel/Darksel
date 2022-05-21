@@ -61,14 +61,11 @@
 		"editorCursor.foreground": "#f5f5f5",
 		// seleccion
 		"editor.selectionBackground": "#464646",
-		"editor.selectionHighlightBackground": "#707070",
-		"editor.selectionHighlightBorder": "#707070",
 		// selecion variables
-		"editor.wordHighlightBackground": "#5440406a",
-		"editor.wordHighlightBorder":"#3e3e3e",
-		"editor.wordHighlightStrongBackground": "#3e3e3e31",
+		"editor.wordHighlightBackground": "#3d333354",
+		"editor.wordHighlightStrongBackground": "#3e3e3e63",
 		// info hover
-		"editor.hoverHighlightBackground": "#7b0c8c6c",
+		"editor.hoverHighlightBackground": "#464646",
 		// linea de columna horizontal
 		"editor.lineHighlightBackground": "#1d1d1d",
 		// bg menu alt
@@ -81,8 +78,7 @@
 		"textLink.foreground": "#6cb9e0",
 		"textLink.activeForeground": "#6cb9e0da",
 		// braket pairs close
-		"editorBracketMatch.border":"#ffe100",
-		"editorBracketMatch.background":"#ffc40058",
+		"editorBracketMatch.border":"#ffffff",
 	},
 	"tokenColors": [
 		{
