@@ -138,7 +138,7 @@
     {
       "name": "String",
       "scope": "string",
-      "settings": { "foreground": "#e6d574" }
+      "settings": { "foreground": "#E6DB74" }
     },
     {
       "name": "Template Definition",
