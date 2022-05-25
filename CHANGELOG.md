@@ -2,9 +2,10 @@
 
 All notable changes to the "darksel" extension will be documented in this file.
 
-## [0.0.4] (25-05-2022)
+## [0.0.5] (25-05-2022)
 
 - Base configuration update.
+- Remove sintaxhighlighting.
 
 ## [0.0.3] (19-05-2022)
 
