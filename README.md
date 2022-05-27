@@ -22,7 +22,7 @@
 ## In my setup use:
 
 - [Material icon theme.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Cascadia Code Font.](https://github.com/microsoft/cascadia-code)
+- [Cascadia Code.](https://github.com/microsoft/cascadia-code)
 
 <br>
 
@@ -57,6 +57,5 @@ Python:
 
 Inspired by Monokai Theme.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
-
 <a href="https://www.buymeacoffee.com/rxtsel" target="_blank"><img src="https://user-images.githubusercontent.com/85462420/169225342-344f2ecd-905c-4f0b-a656-83d7123eb3cc.png" /></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
