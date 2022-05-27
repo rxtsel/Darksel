@@ -10,9 +10,9 @@
     
 [![GitHub followers](https://img.shields.io/github/followers/rxtsel?style=social&label=rxtsel)](https://www.github.com/rxtsel)
 [![Twitter Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rxtsel/)](https://www.twitter.com/rxtsel/)
-[![Instagram Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rxtsel/)](https://www.instagram.com/rxtsel/)
-[![Facebook Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rxtsel)](https://www.facebook.com/rxtsel)
-    
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
+![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/rxtsel.darksel?color=%23111111&label=Downloads&logo=Darksel-Theme&logoColor=%23111111)
+
 </h4>
 
 <br>
@@ -58,4 +58,4 @@ Python:
 Inspired by Monokai Theme.
 
 <a href="https://www.buymeacoffee.com/rxtsel" target="_blank"><img src="https://user-images.githubusercontent.com/85462420/169225342-344f2ecd-905c-4f0b-a656-83d7123eb3cc.png" /></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
+
