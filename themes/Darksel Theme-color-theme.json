@@ -92,7 +92,7 @@
     // ----- BG DE SELECT EN EL MINIMAP -----
     "minimap.selectionHighlight": "#878b9180",
     // ----- SOMBRAS DE WIDGETS -----
-    "widget.shadow": "#1d1d1d",
+    "widget.shadow": "#2b04397e",
     // ----- SETTINGS -----
     "settings.dropdownBackground": "#1d1d1d",
     "settings.focusedRowBackground": "#252525",
