@@ -2,6 +2,11 @@
 
 All notable changes to the "darksel" extension will be documented in this file.
 
+## [0.0.9] (27-05-2022)
+
+- Add suport for italic font and ligatures.
+- Change color of the error input.
+
 ## [0.0.8] (27-05-2022)
 
 - Change colour to shadow widget.
