@@ -6,27 +6,33 @@ Dark theme for vscode...
 [![Instagram Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rxtsel/)](https://www.instagram.com/rxtsel/)
 [![Facebook Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rxtsel)](https://www.facebook.com/rxtsel)
 
-Html:
+Preview:
 
-![html](https://user-images.githubusercontent.com/85462420/170632701-515332de-7e97-4409-a3ac-cc8723fd08a1.gif)
-
-Css:
-
-![css](https://user-images.githubusercontent.com/85462420/170632710-88bb75b2-81ef-44e2-95ed-57bf25288493.gif)
-
-JavaScript:
-
-![js](https://user-images.githubusercontent.com/85462420/170632688-f9d72561-5d80-4f6b-ab98-0462f576da7e.gif)
+![preview](https://user-images.githubusercontent.com/85462420/170638933-742f174f-0249-4879-b54e-4d625ec6972e.gif)
 
 <details>
 <summary>Gallery</summary>
     <br>
-  
-  ![imagen](https://user-images.githubusercontent.com/85462420/169218532-a1cf7ef7-5529-4e0f-b17e-710ee9741350.png)
-  
-  ![imagen](https://user-images.githubusercontent.com/85462420/169220895-cbf65007-9102-45de-9a62-a23d48c35001.png)
-  
-  ![imagen](https://user-images.githubusercontent.com/85462420/169221183-24ef8a11-d35c-4cf4-a4ab-d3785e1f5642.png)
+
+React:
+    
+![1](https://user-images.githubusercontent.com/85462420/170641051-dfc23d67-1772-45b6-a08f-79d620afe57c.png)
+---
+    
+JavaScript:
+    
+![js](https://user-images.githubusercontent.com/85462420/170641298-c9815c81-4e53-43ff-b302-b0ce68a25b32.png)
+---
+    
+Css:
+
+![css](https://user-images.githubusercontent.com/85462420/170641352-e1eadf8f-b563-490e-88b5-c81305fb98f4.png)
+---
+
+Python:
+    
+![py](https://user-images.githubusercontent.com/85462420/170641386-0e2e32dc-ab68-428c-89b7-2efe146e209c.png)
+---
 
 </details>
 
