@@ -2,6 +2,12 @@
 
 All notable changes to the "darksel" extension will be documented in this file.
 
+## [0.0.7] (25-05-2022)
+
+- Change colour to command palete.
+- Change colour of the shadows.
+- Add colours of the settigns area.
+
 ## [0.0.6] (26-05-2022)
 
 - Change colours to widget suggestions.
