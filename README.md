@@ -8,7 +8,7 @@ Dark theme for vscode...
 
 Preview:
 
-![preview](https://user-images.githubusercontent.com/85462420/170638933-742f174f-0249-4879-b54e-4d625ec6972e.gif)
+![preview](https://user-images.githubusercontent.com/85462420/170787698-aaed6f39-50c0-44c2-97fd-1734f026a375.gif)
 
 <details>
 <summary>Gallery</summary>
@@ -16,22 +16,22 @@ Preview:
 
 React:
     
-![1](https://user-images.githubusercontent.com/85462420/170641051-dfc23d67-1772-45b6-a08f-79d620afe57c.png)
+![react](https://user-images.githubusercontent.com/85462420/170787789-7c84240f-2985-464e-939b-41b0fc7cabcf.png)
 ---
     
 JavaScript:
     
-![js](https://user-images.githubusercontent.com/85462420/170641298-c9815c81-4e53-43ff-b302-b0ce68a25b32.png)
+![js](https://user-images.githubusercontent.com/85462420/170787829-687ebea7-dd14-4e21-ba39-91f181945bf1.png)
 ---
     
 Css:
 
-![css](https://user-images.githubusercontent.com/85462420/170641352-e1eadf8f-b563-490e-88b5-c81305fb98f4.png)
+![css](https://user-images.githubusercontent.com/85462420/170787875-cd51fa92-7f56-474e-b660-79652e020e2b.png)
 ---
 
 Python:
     
-![py](https://user-images.githubusercontent.com/85462420/170641386-0e2e32dc-ab68-428c-89b7-2efe146e209c.png)
+![py](https://user-images.githubusercontent.com/85462420/170787897-1c828e5f-cfab-4a54-ac0e-e8f9094af43a.png)
 ---
 
 </details>
