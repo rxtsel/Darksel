@@ -1,9 +1,19 @@
-<br>
+<h1 align="center">
+  <br>
+    <img src="https://user-images.githubusercontent.com/85462420/170794213-807e586e-2b0f-4e99-89fe-c257cbf20e96.png" alt="logo" width="200">
+  <br><br>
+  Darksel Theme
+  <br><br>
+</h1>
 
+<h4 align="center">
+    
 [![GitHub followers](https://img.shields.io/github/followers/rxtsel?style=social&label=rxtsel)](https://www.github.com/rxtsel)
 [![Twitter Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rxtsel/)](https://www.twitter.com/rxtsel/)
 [![Instagram Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rxtsel/)](https://www.instagram.com/rxtsel/)
 [![Facebook Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rxtsel)](https://www.facebook.com/rxtsel)
+    
+</h4>
 
 <br>
 
