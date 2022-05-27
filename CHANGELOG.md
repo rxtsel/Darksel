@@ -2,6 +2,12 @@
 
 All notable changes to the "darksel" extension will be documented in this file.
 
+## [0.0.6] (26-05-2022)
+
+- Change colours to widget suggestions.
+- Change colour of the badges rounded.
+- Add more light to foreground sidebar.
+
 ## [0.0.5] (25-05-2022)
 
 - Base configuration update.

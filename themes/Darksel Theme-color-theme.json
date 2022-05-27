@@ -14,6 +14,7 @@
     "activityBar.foreground": "#f8f8f2",
     // ----- SIDEBAR -----
     "sideBar.background": "#111111",
+    "sideBar.foreground": "#f5f5f5",
     // seleccion de fondo
     "list.activeSelectionBackground": "#80808044",
     "quickInputList.focusBackground": "#414339",
@@ -33,9 +34,9 @@
 		"tree.indentGuidesStroke": "#2f2f2f",
     // ----- TABS -----
     "editorGroupHeader.tabsBackground": "#111111",
-    "tab.inactiveBackground": "#1d1d1d",
     "editorGroup.dropBackground": "#1d1d1d",
-    "tab.inactiveForeground": "#969696",
+    "tab.inactiveBackground": "#1d1d1d",
+    "tab.inactiveForeground": "#777777",
     "tab.lastPinnedBorder": "#00d9ff96",
     // ----- BUTTONS -----
 		"button.background": "#2b0439d1",
@@ -74,13 +75,22 @@
     // ----- PANEL TERMINAL -----
     "dropdown.listBackground": "#111111",
     "list.highlightForeground": "#f5f5f5",
-    "badge.background": "#820096",
+    "badge.background": "#45085c",
     "badge.foreground": "#f5f5f5",
-    // ----- OTHERS -----
-    "minimap.selectionHighlight": "#878b9180",
+    // ----- CUADRO AUTOCOMPLTETE -----
+    "editorSuggestWidget.background": "#111111",
+    "editorSuggestWidget.border": "#1d1d1d",
+    "editorSuggestWidget.selectedBackground": "#1d1d1d",
+    "editorSuggestWidget.foreground": "#f5f5f5b4",
+    "editorSuggestWidget.focusHighlightForeground": "#ffffff",
+    // ----- MATCH -----
     "editor.wordHighlightBackground": "#4a4a7680",
     "editor.wordHighlightStrongBackground": "#6a6a9680",
+    // ----- BG DE SELECT EN EL MINIMAP -----
+    "minimap.selectionHighlight": "#878b9180",
+    // ----- SOMBRAS DE WIDGETS -----
     "widget.shadow": "#1d1d1d94",
+    // ----- OTHERS -----
     "settings.focusedRowBackground": "#4143395A",
     "titleBar.activeBackground": "#1e1f1c",
     "statusBarItem.remoteBackground": "#AC6218",
@@ -98,8 +108,6 @@
     "inputValidation.warningBorder": "#e2e22e",
     "inputValidation.infoBackground": "#546190",
     "inputValidation.infoBorder": "#819aff",
-    "editorSuggestWidget.background": "#272822",
-    "editorSuggestWidget.border": "#75715E",
     "editorGroup.border": "#34352f",
     "peekView.border": "#75715E",
     "peekViewEditor.background": "#272822",
