@@ -1,18 +1,25 @@
-# Darksel-Theme
-Dark theme for vscode... 
+<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/rxtsel?style=social&label=rxtsel)](https://www.github.com/rxtsel)
 [![Twitter Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rxtsel/)](https://www.twitter.com/rxtsel/)
 [![Instagram Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rxtsel/)](https://www.instagram.com/rxtsel/)
 [![Facebook Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rxtsel)](https://www.facebook.com/rxtsel)
 
-Preview:
+<br>
 
 ![preview](https://user-images.githubusercontent.com/85462420/170787698-aaed6f39-50c0-44c2-97fd-1734f026a375.gif)
 
+## In my setup use:
+
+- [Material icon theme.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Cascadia Code Font.](https://github.com/microsoft/cascadia-code)
+
+<br>
+
 <details>
 <summary>Gallery</summary>
-    <br>
+
+<br>
 
 React:
     
@@ -35,6 +42,8 @@ Python:
 ---
 
 </details>
+
+<br>
 
 Inspired by Monokai Theme.
 
