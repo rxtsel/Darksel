@@ -19,7 +19,7 @@
 
 ![preview](https://user-images.githubusercontent.com/85462420/170787698-aaed6f39-50c0-44c2-97fd-1734f026a375.gif)
 
-## In my setup use:
+## In my configuration I use:
 
 - [Material icon theme.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Cascadia Code.](https://github.com/microsoft/cascadia-code)
