@@ -387,7 +387,6 @@
       "scope": "variable.language",
       "settings": { "foreground": "#FD971F" }
     },
-    // support italic
     {
     "scope": [
       "comment",
