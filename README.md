@@ -6,14 +6,14 @@
   <br><br>
 </h1>
 
-<h4 align="center">
-    
-[![GitHub followers](https://img.shields.io/github/followers/rxtsel?style=social&label=rxtsel)](https://www.github.com/rxtsel)
-[![Twitter Badge](https://img.shields.io/badge/-rxtsel-black?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/rxtsel/)](https://www.twitter.com/rxtsel/)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frxtsel%2FDarksel-Theme&labelColor=%23000000&countColor=%23000000&style=flat)
-![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/rxtsel.darksel?color=%23111111&label=Downloads&logo=Darksel-Theme&logoColor=%23111111)
+<h4 align="center">Get Darksel Theme into your VS Code.</h4>
 
-</h4>
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=rxtsel.darksel"><img src="https://vsmarketplacebadge.apphb.com/version-short/rxtsel.darksel.svg?style=for-the-badge&colorA=111111&colorB=1d1d1d&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=rxtsel.darksel"><img src="https://vsmarketplacebadge.apphb.com/rating-short/rxtsel.darksel.svg?style=for-the-badge&colorA=111111&colorB=1d1d1d&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=rxtsel.darksel"><img src="https://vsmarketplacebadge.apphb.com/installs-short/rxtsel.darksel.svg?style=for-the-badge&colorA=111111&colorB=1d1d1d&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=rxtsel.darksel"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/rxtsel.darksel.svg?style=for-the-badge&colorA=111111&colorB=1d1d1d&label=Downloads" alt="Downloads"></a>
+</p>
 
 <br>
 
