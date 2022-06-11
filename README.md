@@ -2,7 +2,7 @@
   <br>
     <img src="https://user-images.githubusercontent.com/85462420/170794213-807e586e-2b0f-4e99-89fe-c257cbf20e96.png" alt="logo" width="200">
   <br><br>
-  Darksel Theme
+  Darksel
   <br><br>
 </h1>
 
